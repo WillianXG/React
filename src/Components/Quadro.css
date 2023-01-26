@@ -51,3 +51,11 @@ body {
 .cartaz{
     margin: 5px;
 }
+
+button{
+    background-color: black;
+    color: white;
+    width: 100px;
+    border-radius: 5px;
+    height: 40px;
+}
